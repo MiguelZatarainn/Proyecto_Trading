@@ -1,0 +1,5 @@
+pandas==1.5.3
+matplotlib==3.7.1
+ta==0.11.0
+itertools==
+optuna==3.5.0
